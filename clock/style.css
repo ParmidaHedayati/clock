@@ -1,0 +1,32 @@
+.main{
+    width: 70%;
+    height: 600px;
+    background-color: rgb(56, 56, 56);
+    display: flex;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    transform: translateX(20%) translateY(15%);
+    font-family: 'Heebo', sans-serif;
+    border-radius: 40px;
+}
+.shadow{
+    width: 80%;
+    height: 450px;
+    background-color: black;
+    
+}
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: #bfacbc;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
+
